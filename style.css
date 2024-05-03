@@ -1,5 +1,5 @@
 
-div.Header1 {
+.Header1 {
     font-size: 64px;
     font-family: cursive;
     color: black;
@@ -21,6 +21,6 @@ font-size: 25px;
     color: black;
     
 }
-div.Navl {
+.Navl {
     padding: 15px   
 }
